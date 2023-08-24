@@ -16,3 +16,7 @@ power via motorbike usb or 12v plug step down module
 
 potentially even later:
 can bus connection to reuse existing handlebar buttons
+
+LoRa library: https://github.com/sandeepmistry/arduino-LoRa (https://github.com/sandeepmistry/arduino-LoRa/blob/master/LICENSE)
+
+Debounce logic: https://esp32io.com/tutorials/esp32-button-debounce
